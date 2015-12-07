@@ -1,0 +1,24 @@
+h1
+{
+    color :indianred;
+    font-family: fantasy;
+    
+}
+
+.bleu
+{
+    color :blue;
+}
+.vert
+{
+    color :green;
+    font-style: italic;
+    font-size: 18px;
+    
+}
+#identifiant
+{
+    color :violet;
+    font-size : small;
+    text-decoration: blink;
+}
